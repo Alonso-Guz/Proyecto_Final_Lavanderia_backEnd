@@ -1,7 +1,7 @@
 package com.lavanderia.application.mapper;
 
-import com.lavanderia.application.dto.ArticuloRequestDto;
-import com.lavanderia.application.dto.ArticuloResponseDto;
+import com.lavanderia.application.dto.articuloDTO.ArticuloRequestDto;
+import com.lavanderia.application.dto.articuloDTO.ArticuloResponseDto;
 import com.lavanderia.domain.entity.Articulo;
 import org.springframework.stereotype.Component;
 

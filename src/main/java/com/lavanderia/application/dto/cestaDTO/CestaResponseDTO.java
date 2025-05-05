@@ -1,9 +1,8 @@
-package com.lavanderia.application.dto;
+package com.lavanderia.application.dto.cestaDTO;
 
-import lombok.AllArgsConstructor;
+import com.lavanderia.application.dto.articuloDTO.ArticuloResponseDto;
 import lombok.Builder;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 import java.util.List;
 

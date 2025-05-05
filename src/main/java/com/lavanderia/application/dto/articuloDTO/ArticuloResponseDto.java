@@ -1,5 +1,6 @@
-package com.lavanderia.application.dto;
+package com.lavanderia.application.dto.articuloDTO;
 
+import com.lavanderia.application.dto.servicioDTO.ServicioLavResponseDTO;
 import lombok.Builder;
 import lombok.Data;
 

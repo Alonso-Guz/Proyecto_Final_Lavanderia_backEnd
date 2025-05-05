@@ -1,7 +1,7 @@
 package com.lavanderia.application.service;
 
-import com.lavanderia.application.dto.CestaRequestDTO;
-import com.lavanderia.application.dto.CestaResponseDTO;
+import com.lavanderia.application.dto.cestaDTO.CestaRequestDTO;
+import com.lavanderia.application.dto.cestaDTO.CestaResponseDTO;
 
 import java.util.List;
 

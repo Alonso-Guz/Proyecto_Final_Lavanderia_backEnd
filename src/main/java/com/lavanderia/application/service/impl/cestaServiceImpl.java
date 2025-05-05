@@ -1,7 +1,7 @@
 package com.lavanderia.application.service.impl;
 
-import com.lavanderia.application.dto.CestaRequestDTO;
-import com.lavanderia.application.dto.CestaResponseDTO;
+import com.lavanderia.application.dto.cestaDTO.CestaRequestDTO;
+import com.lavanderia.application.dto.cestaDTO.CestaResponseDTO;
 import com.lavanderia.application.mapper.CestaMapper;
 import com.lavanderia.application.service.ICestaService;
 import com.lavanderia.domain.entity.Articulo;
@@ -14,7 +14,6 @@ import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
-import java.util.List;
 @Service
 @RequiredArgsConstructor
 public class cestaServiceImpl implements ICestaService {

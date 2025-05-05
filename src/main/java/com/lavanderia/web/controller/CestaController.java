@@ -1,7 +1,7 @@
 package com.lavanderia.web.controller;
 
-import com.lavanderia.application.dto.CestaRequestDTO;
-import com.lavanderia.application.dto.CestaResponseDTO;
+import com.lavanderia.application.dto.cestaDTO.CestaRequestDTO;
+import com.lavanderia.application.dto.cestaDTO.CestaResponseDTO;
 import com.lavanderia.application.service.ICestaService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

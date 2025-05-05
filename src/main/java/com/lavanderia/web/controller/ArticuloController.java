@@ -1,7 +1,7 @@
 package com.lavanderia.web.controller;
 
-import com.lavanderia.application.dto.ArticuloRequestDto;
-import com.lavanderia.application.dto.ArticuloResponseDto;
+import com.lavanderia.application.dto.articuloDTO.ArticuloRequestDto;
+import com.lavanderia.application.dto.articuloDTO.ArticuloResponseDto;
 import com.lavanderia.application.service.IArticuloService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

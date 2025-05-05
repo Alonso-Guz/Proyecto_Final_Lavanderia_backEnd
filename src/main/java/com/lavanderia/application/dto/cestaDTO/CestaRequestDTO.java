@@ -1,4 +1,4 @@
-package com.lavanderia.application.dto;
+package com.lavanderia.application.dto.cestaDTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,7 +1,7 @@
 package com.lavanderia.application.mapper;
 
-import com.lavanderia.application.dto.CestaRequestDTO;
-import com.lavanderia.application.dto.CestaResponseDTO;
+import com.lavanderia.application.dto.cestaDTO.CestaRequestDTO;
+import com.lavanderia.application.dto.cestaDTO.CestaResponseDTO;
 import com.lavanderia.domain.entity.Cesta;
 import com.lavanderia.domain.entity.UserEntity;
 
